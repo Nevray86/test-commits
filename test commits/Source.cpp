@@ -13,6 +13,8 @@ int main() {
 	
 	cout << "commit 1";
 	cout << "commit 2";
+	cout << "commit 3";
+
 
 	return 0;
 }
