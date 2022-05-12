@@ -14,6 +14,7 @@ int main() {
 	cout << "commit 1";
 	cout << "commit 2";
 	cout << "commit 3";
+	cout << "commit 4";
 
 
 	return 0;
