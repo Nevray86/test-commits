@@ -12,7 +12,7 @@ int main() {
 	srand(time(NULL));
 	
 	cout << "commit 1";
-
+	cout << "commit 2";
 
 	return 0;
 }
