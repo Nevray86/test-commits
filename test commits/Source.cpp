@@ -16,6 +16,7 @@ int main() {
 	cout << "commit 3";
 	cout << "commit 4";
 	cout << "commit 5";
+	// комит из VISUAL STUDIO
 
 
 	return 0;
