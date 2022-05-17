@@ -19,5 +19,6 @@ int main() {
 	// комит из VISUAL STUDIO
 	cout << "hi";
 	cout << "hi";
+	cout << "hi";
 	return 0;
 }
