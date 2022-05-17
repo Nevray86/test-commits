@@ -18,6 +18,6 @@ int main() {
 	cout << "commit 5";
 	// комит из VISUAL STUDIO
 	cout << "hi";
-
+	cout << "hi";
 	return 0;
 }
