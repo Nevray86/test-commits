@@ -20,5 +20,6 @@ int main() {
 	cout << "hi";
 	cout << "hi";
 	cout << "hi";
+	cout << "научился";
 	return 0;
 }
