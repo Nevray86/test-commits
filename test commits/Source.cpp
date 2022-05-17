@@ -22,5 +22,6 @@ int main() {
 	cout << "hi";
 	cout << "научился";
 	cout << "научился";
+	cout << "научился";
 	return 0;
 }
